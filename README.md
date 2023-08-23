@@ -39,11 +39,11 @@
 <h3 id="installation">Installation</h3>
 <ol>
     <li>Clone the repository:
-        <pre><code>git clone https://github.com/ankushbar02.github.io/Tailor.git</code></pre>
+        <pre><code>git clone https://github.com/ankushbar02/Spinfluence.git</code></pre>
         Alternatively, you can download the repository as a ZIP file and extract it.
     </li>
     <li>Navigate to the project directory:
-        <pre><code>cd frontend-website</code></pre>
+        <pre><code>cd Spinfluence</code></pre>
     </li>
     <li>Open the HTML file:
         <p>Locate the <code>index.html</code> file in the project directory and open it with your preferred web browser.
