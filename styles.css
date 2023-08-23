@@ -1,0 +1,29 @@
+.head1{
+    background-attachment: scroll;
+    background-image: url(./assets/pic1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.head7{
+    background-attachment: scroll;
+    background-image: url(./assets/base.png);
+    background-repeat: no-repeat;
+   background-size: cover;
+  
+}
+.rome{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large !important;
+}
+.rome1{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.head10{
+    background-attachment: scroll;
+    background-image: url(./assets/pic11.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
